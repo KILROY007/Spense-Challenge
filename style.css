@@ -1,0 +1,13 @@
+.spense-top{
+    background-color: #f0eeeb;
+}
+
+.mbl-bg{
+    background-color: #f0eeeb;
+    background-image: url(./Assets/Phone\ Mockup.png);
+    padding: 50px 40px 80px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: 100% 90%;
+    background-position: 10px bottom;
+}
